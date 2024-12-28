@@ -26,7 +26,7 @@ const About = () => {
 
                         <div>
                             <p className="grid-headtext">Hi, I am Dennis</p>
-                            <p className="grid-headtext">With 6 years of experience, I have honed my skills in frontend and backend development, with a focus on animated 3D websites.</p>
+                            <p className="grid-headtext">With 2 years of experience, I have honed my skills in frontend and backend development, with a focus on responsive websites.</p>
                         </div>
                     </div>
                 </div>
@@ -37,7 +37,7 @@ const About = () => {
 
                         <div>
                             <p className="grid-headtext">Tech Stack</p>
-                            <p className="grid-subtext">I specialize in Javascript/Typescript with a focus on React and Next.js ecosystems.</p>
+                            <p className="grid-subtext">I specialize in Javascript/Typescript with a focus on React, Next.js ecosystems and Artificial Intelligence.</p>
                         </div>
                     </div>
                 </div>
