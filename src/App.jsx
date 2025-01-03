@@ -7,6 +7,7 @@ import Contact from "./sections/Contact.jsx";
 import Footer from "./sections/Footer.jsx";
 import Experience from "./sections/Experience.jsx";
 import { Analytics } from "@vercel/analytics/react"
+import { SpeedInsights } from "@vercel/speed-insights/react"
 
 const App = () => {
     return (
@@ -20,6 +21,7 @@ const App = () => {
             <Contact />
             <Footer />
             <Analytics />
+            <SpeedInsights />
         </main>
     )
 }
